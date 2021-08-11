@@ -5,7 +5,7 @@
  3. I have applied  in built sklearn classifires for predication of flight delays
 
 # Accuracu Claasification report of logistic regrssion:
-![classification report of logistic reg](https://user-images.githubusercontent.com/18098938/128925482-ed1b334e-ab82-4e16-adbb-6855c7416aa8.JPG)
+![classification report of logistic reg](https://user-images.githubusercontent.com/18098938/129040550-1e84f005-570b-467f-8fbc-196082ce7363.JPG)
 
 # Accuracy of other classifiers:
 
