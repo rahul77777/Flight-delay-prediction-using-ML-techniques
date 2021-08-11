@@ -9,7 +9,7 @@
 
 # Accuracy of other classifiers:
 
-    Logistic Regression : 0.81
+    Logistic Regression : 0.89
 
     Decision Tree classifier : 0.86
 
